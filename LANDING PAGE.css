@@ -1,0 +1,20 @@
+header, .NAVIGATION {
+	background-color: #8a3f3f;
+	padding: 30px;
+	text-align: left;
+	color: white
+}
+
+footer {
+	background-color: #777;
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+
+.PROFILE {
+	background-color: #d3d3d3;
+	padding: 30px;
+	text-align: center;
+	width: 100;
+}

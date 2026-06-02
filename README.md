@@ -7,6 +7,7 @@ THE RODRIGUEZ PROJECT
 ############################ EXTERNAL DOCUMENTATION ############################
 
 THE GOAL:
+
 		The goal of this project is to get a working website up and running
 		to act as my professional archive of projects that I've worked on 
 		in my college and professional career.

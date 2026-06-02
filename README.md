@@ -4,7 +4,7 @@
 >SUMMER OF 2026
 
 
-############################ EXTERNAL DOCUMENTATION ############################
+# EXTERNAL DOCUMENTATION
 
 THE GOAL:
 

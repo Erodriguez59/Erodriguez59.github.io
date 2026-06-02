@@ -1,8 +1,8 @@
+# THE RODRIGUEZ PROJECT
 BY ERIK RODRIGUEZ
 
 SUMMER OF 2026
 
-THE RODRIGUEZ PROJECT
 
 ############################ EXTERNAL DOCUMENTATION ############################
 

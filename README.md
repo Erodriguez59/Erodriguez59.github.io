@@ -11,9 +11,7 @@
 		This should include github repositories in which I shall store my
 		projects, an about me section with a mini resume and a neat layout.
 
-################################################################################
-
-############################      CORE SECTIONS     ############################
+## CORE SECTIONS
 
 THE LANDING PAGE:
 

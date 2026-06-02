@@ -71,9 +71,8 @@
 													3. Linkedin
 													4. Resume
 													
-######################################################################################
 
-############################ SUBJECTS TO WORK ON ############################
+### SUBJECTS TO WORK ON
 
 1. learning the basics of html coding.
 2. working on creating the github pages.

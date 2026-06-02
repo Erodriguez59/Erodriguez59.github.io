@@ -20,6 +20,7 @@ THE GOAL:
 ############################      CORE SECTIONS     ############################
 
 THE LANDING PAGE:
+
 			This section should include the following:
 			
 														1. Name

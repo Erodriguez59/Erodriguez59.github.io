@@ -12,7 +12,7 @@ THE GOAL:
 ################################################################################
 
 ############################      CORE SECTIONS     ############################
-THE HOMEPAGE:
+THE HOMEPAGE: PRETTY SURE WE DON'T NEED THIS SECTION
 			This section should include the following:
 														1. Name
 														2. Short title
@@ -46,7 +46,7 @@ THE PROJECTS PAGE:
 													4. Difficulty/Category Tags
 													5. Links to each github project.
 													
-THE JOURNEY PAGE:
+THE JOURNEY PAGE:	DONE
 			This section will be used to highlight important classes you learned:
 						Each Class should be labeled by the following:
 													1. Class Name
@@ -57,7 +57,7 @@ THE BLOG PAGE:
 			This section is a series of short posts:
 							- They go over random things that I found to be important.
 
-CONTACT PAGE:
+CONTACT PAGE: 		DONE
 			This section should include the following:
 													1. Email
 													2. Github

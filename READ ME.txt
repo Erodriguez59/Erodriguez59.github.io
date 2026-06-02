@@ -1,0 +1,13 @@
+################### INSTRUCTIONS ON HOW TO RUN ###################
+STEP 1: Extract all files
+STEP 2: Message Erikito and tell him how good he's doing on this project.
+STEP 3: Go into the downloaded folder and keep going until you see the microsoft edge files.
+STEP 4: Double click on the Landing Page HTML.
+STEP 4a: At this step you should be seeing a few things, a photo of a gremlin, a burgandy header and footer, 
+		and the navigation links that you can click on. if you do NOT see any of these or any are missing REPORT THIS.
+STEP 5: Click on each of the navigation links, you should be taken to a white page for every one of them besides
+		the contact page. If not, REPORT THIS
+STEP 6: On the Contacts Page, click on each link as they should open. (Do watch the linkedin one [as we are working on
+		that one shortly]) and if ANY of these links do not work, REPORT IT and inform me of what they did.
+STEP 7: Click on the Resume and if that does not work REPORT IT.
+STEP 8: Have a very nice and wonderful day.

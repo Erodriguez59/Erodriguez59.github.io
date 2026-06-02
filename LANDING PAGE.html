@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Portfolio Website</title>
+    <link href="LANDING PAGE.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <!--Line (9 - 16): Holds the Header for the Transfer Page-->
+    <header>
+        <h1>WELCOME TO THE RODRIGUEZ PROJECT</h1>
+        <!--<POSSIBLY NOT NEEDED: a href="#" class="logo">Erik Rodriguez</a>-->
+        <h5 class="TYPING-TEXT">UPDATED LAST:  Summer of 2026</h5>
+        <h5 class="TYPING-TEXT">NAME:  Erik Rodriguez</h5>
+        <h5 class="TYPING-TEXT">TITLE: IT frontline consultant/technician</h5>
+        <h5 class="TYPING-TEXT">DOB:   October 12th, 2001</h5>
+        <h5 class="TYPING-TEXT">HOMETOWN: Osceola Indiana</h5>
+    </header>
+    <!--Line (21 - 43): Holds the details for the profile picture-->
+    <section class="PROFILE">
+        <div class="PROFILE-CONTENT">
+            <style>
+                figureCENTER {
+                    text-align: center;
+                }
+            </style>
+
+            <figureCENTER>
+                <h3 class="TYPING-TEXT"> [Test] This photo was taken during my senior year.</h3>
+            </figureCENTER>
+
+        </div>
+
+        <div class="PROFILE-IMG">
+            <style>
+                figure {
+                    text-align: right;
+                }
+
+                figcaption {
+                    font-size: 14px;
+                    color: #555;
+                }
+            </style>
+
+            <figure>
+                <img src="GENERALimages\test.png" alt="Description of image" width="200" />
+                <figcaption> [Test]</figcaption>
+            </figure>
+        </div>
+    </section>
+    <section class="NAVIGATION">
+
+        <!--Line (55 - 60): Initialize the style of the navigation link table-->
+        <style>
+            table, th, td {
+                border: 1px solid black;
+            }
+        </style>
+        <h2>Navigation Links</h2>
+
+        <!--Line (63 - 78): Creation of the navigation Link table-->
+        <table style="width:100%">
+            <tr>
+                <td>The Journey</td>
+                <td>The About Me</td>
+                <td>The Projects</td>
+                <td>The Blog Posts</td>
+                <td>The Contacts</td>
+            </tr>
+            <tr>
+                <td><a href="JOURNEY PAGE\JOURNEY PAGE.html" class="LANDING-BTN">The Journey</a></td>
+                <td><a href="ABOUT ME PAGE\ABOUT ME PAGE.html" class="LANDING-BTN">The About Me</a></td>
+                <td><a href="PROJECTS PAGE\PROJECTS PAGE.html" class="LANDING-BTN">The Projects</a></td>
+                <td><a href="BLOG PAGE\BLOG PAGE.html" class="LANDING-BTN">The Blog Posts</a></td>
+                <td><a href="CONTACT PAGE\CONTACT PAGE.html" class="LANDING-BTN">The Contacts</a></td>
+            </tr>
+        </table>
+    </section>
+    <script src="transition.js"></script>
+</body>
+</html>

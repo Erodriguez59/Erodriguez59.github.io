@@ -1,0 +1,166 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>THE JOURNEY</title>
+    <link href="JOURNEY PAGE.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>WELCOME TO MY JOURNEY</h1>
+    </header>
+
+    <svg class="journey-lines" viewBox="0 0 1200 3000" preserveAspectRatio="none">
+        <defs>
+            <marker id="arrowhead"
+                    markerWidth="10"
+                    markerHeight="10"
+                    refX="10"
+                    refY="5"
+                    orient="auto">
+                <polygon points="0 0, 10 5, 0 10" fill="black" />
+            </marker>
+        </defs>
+
+        <!-- LOGIC -> LBS -->
+        <path d="M 520 320 C 850 380, 900 500, 850 650"
+              marker-end="url(#arrowhead)" />
+
+        <!-- LBS -> FDSA -->
+        <path d="M 680 850 C 150 650, 300 950, 300 1100"
+              marker-end="url(#arrowhead)" />
+
+        <!-- FDSA -> BOT -->
+        <path d="M 520 1200 C 750 1200, 900 1200, 750 1475"
+              marker-end="url(#arrowhead)" />
+
+        <!-- BOT -> DCTI -->
+        <path d="M 680 1750 C 150 1900, 300 1950, 400 2000"
+              marker-end="url(#arrowhead)" />
+    </svg>
+
+    <!--Logic-->
+    <section class="journey-box LOGIC">
+        <h1>Logic</h1>
+
+        <div>
+            <p>
+                Discrete Structures[Fall 2021]: This course was a struggle for me as I was not prepared for the professor teaching style in combination with
+                the material. In this course, we prioritized learning propositional and predicate logic, gaining mastery in proof writing, and utilizing said logics
+                and critical thinking in every day situations. None of these topics were particularly hard but adjusting to the teaching style is what brought difficulty to my life.
+            </p>
+        </div>
+
+        <div>
+            <p>
+                Digitial Design [Fall 2023]: This course was in my list of favorites and I didn't have ANY difficulty with this one. To summarize, we built upon
+                what we learned in Discrete Structures by learning combinational logic design and sequential logic design while further pushing those topics with the
+                knowing lof digital building blocks. We also learned about the I/O systems, from the fundamentals to general knowledge on Embedded I/O systems.
+                We did a lot of hands on learning this course with CAD software, Raspberry Pi kits and System Verilog.
+
+            </p>
+        </div>
+
+        <div>
+            <p>
+                Database Systems[Spring 2023]: This class was by far my favorite and the one I hold dear to my heart. At it's core, using SQL we learned the
+                how to manipulate SQL queries following different modeling forms (ER/EER/Relational). Throughout this course, we worked a lot on diagrams via
+                Oracle with my favorite assignment being the one in which we had to convery an EER diagram into a relational schema diagram.
+            </p>
+        </div>
+    </section>
+
+    <!--Linux/BASH/Shell-->
+    <section class="journey-box LBS">
+        <h1>Linux/BASH/Shell</h1>
+
+        <div>
+            <p>
+                Multiuser Operating Systems[Fall 2021]: This course wasn't too hard in my opinion, what made it difficult was that it was my first time
+                using a linux system. But thanks to this course, I managed to get an understanding on Linux's process management, file systems and some common
+                memory management issues. I was introduced to basic UNIX commands alongside the development environment in which I performed simple shell scripts
+                and batch file coding during this course.
+            </p>
+        </div>
+
+        <div>
+            <p>
+                Computer Structures[Spring 2022]: This course definitely ramped up from any of the courses I had taken so far when it came to difficulty.
+                We encountered differing computer architectures and became familiar with what computer instruction sets were and did while gaining the ability to
+                use assembly language effectively during a core project. I struggled during this project as coding with assembly code jumbled my brain but I somehow
+                pulled through and managed to perservere.
+            </p>
+        </div>
+    </section>
+
+    <!--Familiarizing with data structures & ideal algorithms and searchs-->
+    <section class="journey-box FDSA">
+        <h1>Familiarizing with data structures & ideal algorithms and searchs</h1>
+
+        <div>
+            <p>
+                Intro to Data Structures[Spring 2022]: This class wasn't overly complicated which was kinda nice. Not to simplify things, but we primarily went over sorting methods while
+                also touching up on linked-lists, nodes and everything in between. I believe the thing I struggled the most with was analyzing different algorithm complexities.
+            </p>
+        </div>
+
+        <div>
+            <p> Analysis of Algorithms[Spring 2025]: It was here that my former struggles of dealing with algorithm complexities caught up to me. </p>
+        </div>
+    </section>
+
+    <!--Building & Working as a Team-->
+    <section class="journey-box BOT">
+        <h1>Building & Operating as a Team</h1>
+
+        <div>
+            <p>
+                System Analysis and Design[Fall 2022]: This course actually was decent fun, it wasn't too hard either in my opinion. Simply put, this course can be divided into two core
+                concepts: how software developers work as a team <b>AND</b> the analysis and documentation of complexe system designs. We learned the advantages of using an Object-Oriented Paradigm
+                in comparison to the older classical paradigm, even spending a lot of time on learning the details of the unified process. But that just covered the analysis portion of the class,
+                to show our efficiency when it came to working as a team, we worked on a project of our choosing.
+            </p>
+        </div>
+
+        <div>
+            <p>
+                Operating Systems[Spring 2026]: Let me start off by saying that I did not expect to enjoy this class as much as I did. I thought it was going to be rough
+                learning the nitty gritty parts of topics such as concurrency and process scheduling <b>BUT</b> I was sorely mistaken thanks to my partners.
+                Thanks to the ULTIMA2.0 project that we were doing alongside our lectures, I learned the intricacies of deadlock management and virtual memory management thanks my teammates.
+                I was able to confidently implement a basic secure IPC thanks to their assistance during the lectures.
+            </p>
+        </div>
+    </section>
+
+    <!--Data Collection Techniques & The Importance of Data-->
+    <section class="journey-box DCTI">
+        <h1>Data Collection Techniques & The Importance of Data</h1>
+
+        <div>
+            <p>
+                Social Informatics[Spring 2021]: This course was one that was relatively easy on paper but in practice it becomes a lot more confusing.
+                The reason for that description is because during this course, we dissected the flow of information in today's current media and organized that
+                data in a way that bias's would not affect our project that we did throughout the semester. We also needed to be able to utilize that data effectively
+                and present well documented papers & presentations.
+            </p>
+        </div>
+
+        <div>
+            <p>
+                Intro to Data Science[Spring 2026]: I will admit that I found this class to be a lot more difficult due to me having to look at the information
+                from a wider view. But thanks to this course I was able to learn the foundational concepts/tools used in modern data analytics.
+                We covered topics regarding data cleaning, transformation and the integration techniques that are used for changing raw data into usable data for analysis.
+            </p>
+        </div>
+    </section>
+
+    <footer>
+        <section class="LANDINGbutton-section">
+            <a href="../LANDING PAGE.html" class="LANDING-BTN">Back to Landing</a>
+        </section>
+    </footer>
+
+    <script src="../transition.js"></script>
+</body>
+</html>

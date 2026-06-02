@@ -13,7 +13,7 @@
 
 ## CORE SECTIONS
 
-THE LANDING PAGE:
+### THE LANDING PAGE:
 
 			This section should include the following:
 			
@@ -24,7 +24,7 @@ THE LANDING PAGE:
 														5. Working Buttons
 														6. A profile picture
 
-THE ABOUT ME PAGE:
+### THE ABOUT ME PAGE:
 			This section should include the following: 
 			
 													1. A short story
@@ -41,7 +41,7 @@ THE ABOUT ME PAGE:
 														- hobbies
 														- past time activities
 
-THE PROJECTS PAGE:
+### THE PROJECTS PAGE:
 				In this section, every project should feel like a mini case study
 						Each Project should be labeled by the following:
 						
@@ -51,7 +51,7 @@ THE PROJECTS PAGE:
 													4. Difficulty/Category Tags
 													5. Links to each github project.
 													
-THE JOURNEY PAGE:	DONE
+### THE JOURNEY PAGE:	DONE
 			This section will be used to highlight important classes you learned:
 						Each Class should be labeled by the following:
 						
@@ -59,11 +59,11 @@ THE JOURNEY PAGE:	DONE
 													2. Short Description
 													3. Difficulty (personally)
 											
-THE BLOG PAGE:
+### THE BLOG PAGE:
 			This section is a series of short posts:
 							- They go over random things that I found to be important.
 
-CONTACT PAGE: 		DONE
+### CONTACT PAGE: 		DONE
 			This section should include the following:
 			
 													1. Email

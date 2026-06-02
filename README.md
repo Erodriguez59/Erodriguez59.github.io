@@ -69,6 +69,7 @@ CONTACT PAGE: 		DONE
 													2. Github
 													3. Linkedin
 													4. Resume
+													
 ######################################################################################
 
 ############################ SUBJECTS TO WORK ON ############################
@@ -76,4 +77,5 @@ CONTACT PAGE: 		DONE
 1. learning the basics of html coding.
 2. working on creating the github pages.
 3. figuring out how to set up my domain.
+
 #############################################################################

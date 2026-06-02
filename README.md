@@ -3,10 +3,8 @@
 >
 >SUMMER OF 2026
 
-
 # EXTERNAL DOCUMENTATION
-
-THE GOAL:
+## THE GOAL:
 
 		The goal of this project is to get a working website up and running
 		to act as my professional archive of projects that I've worked on 

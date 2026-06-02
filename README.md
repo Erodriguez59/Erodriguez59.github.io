@@ -73,6 +73,7 @@
 													
 
 ## SUBJECTS TO WORK ON
+### SUBJECTS IN QUESTION:
 	1. learning the basics of html coding.
 	2. working on creating the github pages.
 	3. figuring out how to set up my domain.

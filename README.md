@@ -1,7 +1,11 @@
 BY ERIK RODRIGUEZ
+
 SUMMER OF 2026
+
 THE RODRIGUEZ PROJECT
+
 ############################ EXTERNAL DOCUMENTATION ############################
+
 THE GOAL:
 		The goal of this project is to get a working website up and running
 		to act as my professional archive of projects that I've worked on 
@@ -9,6 +13,7 @@ THE GOAL:
 		
 		This should include github repositories in which I shall store my
 		projects, an about me section with a mini resume and a neat layout.
+
 ################################################################################
 
 ############################      CORE SECTIONS     ############################

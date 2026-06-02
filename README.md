@@ -32,6 +32,7 @@ THE LANDING PAGE:
 
 THE ABOUT ME PAGE:
 			This section should include the following: 
+			
 													1. A short story
 														- where you started
 														- what got you interested
@@ -49,6 +50,7 @@ THE ABOUT ME PAGE:
 THE PROJECTS PAGE:
 				In this section, every project should feel like a mini case study
 						Each Project should be labeled by the following:
+						
 													1. Project Name
 													2. Short Description
 													3. Tech Stack (Used language)
@@ -58,6 +60,7 @@ THE PROJECTS PAGE:
 THE JOURNEY PAGE:	DONE
 			This section will be used to highlight important classes you learned:
 						Each Class should be labeled by the following:
+						
 													1. Class Name
 													2. Short Description
 													3. Difficulty (personally)
@@ -68,6 +71,7 @@ THE BLOG PAGE:
 
 CONTACT PAGE: 		DONE
 			This section should include the following:
+			
 													1. Email
 													2. Github
 													3. Linkedin

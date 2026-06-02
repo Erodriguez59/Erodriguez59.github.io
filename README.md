@@ -17,6 +17,7 @@ THE GOAL:
 ################################################################################
 
 ############################      CORE SECTIONS     ############################
+
 THE HOMEPAGE: PRETTY SURE WE DON'T NEED THIS SECTION
 			This section should include the following:
 														1. Name
@@ -71,6 +72,7 @@ CONTACT PAGE: 		DONE
 ######################################################################################
 
 ############################ SUBJECTS TO WORK ON ############################
+
 1. learning the basics of html coding.
 2. working on creating the github pages.
 3. figuring out how to set up my domain.

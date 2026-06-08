@@ -10,6 +10,11 @@
 ### [WON'T FIX] [P1] [UI] #002 Journey Page Arrows are fucked.
 **Issue:** The SVG arrows break when on different sized page resolutions.
 **Reason:** This currently isn't that big of an issue as the page isn't online yet.
+
+ ### [OPEN] [P1] [UI] #003 The Wonder Blog Return to Landing button is out of place.
+ **Cause:** [TBD]
+
+ **Fix:** [TBD]
  
  ## THE CSS
 ### [FIXED] [P1] [CSS] #001 Speech bubble tails did not match bubble colors.

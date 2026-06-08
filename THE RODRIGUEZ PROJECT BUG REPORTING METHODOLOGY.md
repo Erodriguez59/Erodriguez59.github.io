@@ -3,7 +3,6 @@
 >
 ## THE CATEGORIES
 >And what they should cover.
-
  ### THE UI
 
 			This section should include the following:
@@ -65,3 +64,11 @@
 														 3. Laggy animations
 
 ## THE STATUSES
+>aka the state of the bug fixing process
+>
+			[OPEN]
+			[INVESTIGATING]
+			[IN PROGRESS]
+			[TESTING]
+			[FIXED]
+			[WON'T FIX]

@@ -63,3 +63,5 @@
 													 	 1. Slow page loads
 														 2. Excessive DOM elements
 														 3. Laggy animations
+
+## THE STATUSES

@@ -3,4 +3,6 @@
 >
 ## THE CATEGORIES
 
- ### THE UI       
+ ### THE UI
+
+      This section covers the following:

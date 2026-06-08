@@ -22,6 +22,11 @@
 
 **Fix:** Changed tail background to inherit parent color.
 
+### [FIXED] [P2] [CSS] #002 Goals text barely visible.
+**Cause:** The text is barely visible due to the flexbox backgrounds and font-color.
+
+**Fix:** We neon-signed some of the less readable portions.
+
  ## THE JAVASCRIPT
  ### [FIXED] [P1] [JS] #001 Speech bubbles always appear on left side.
    **Cause:** Random position generated only once during page load.

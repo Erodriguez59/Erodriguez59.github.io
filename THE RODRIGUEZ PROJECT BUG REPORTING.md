@@ -5,8 +5,8 @@
 
  ### THE CSS
 
- ### THE JAVASCRIPT
- ## [FIXED] [JS] #001 Speech bubbles always appear on left side.
+ ## THE JAVASCRIPT
+ ### [FIXED] [JS] #001 Speech bubbles always appear on left side.
    **Cause:** Random position generated only once during page load.
    
    **Fix:** Moved random position generation into addBtn event.

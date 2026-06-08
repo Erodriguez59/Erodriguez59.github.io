@@ -24,6 +24,11 @@
    **Fix:** Moved random position generation into addBtn event.
 
  ## THE STORAGE
+ ### [FIXED] [P2] [STR] #001 Unorganized Github Repository
+  **Cause:** Outdated version was messy since I was just throwing things in there as needed.
+
+  **Fix:** I deleted all the outdated files, keeping only the index.html **AND** the README.md; then added the files of the current project.
+  >Files were added on June 6th, 2026 at 1:55 PM EST.
 
  ## THE NAVIGATION
  ### [FIXED] [P3] [NAV] #001 Page not found.

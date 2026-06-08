@@ -26,7 +26,11 @@
  ## THE STORAGE
 
  ## THE NAVIGATION
+ ### [FIXED] [P3] [NAV] #001 Page not found.
+ **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC.
 
+ **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
+ 
  ## THE CONTENT
 
  ## THE PERFORMANCE

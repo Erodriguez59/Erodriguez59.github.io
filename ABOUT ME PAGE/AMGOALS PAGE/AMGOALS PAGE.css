@@ -1,0 +1,142 @@
+﻿header {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: white;
+    background-color: #8a3f3f;
+    padding: 30px;
+    text-align: center;
+    color: white
+}
+
+body {
+    background-color: ghostwhite;
+}
+
+.amgoals-box {
+    width: 40%;
+    margin: 30px;
+    padding: 25px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+}
+
+.RULES {
+    width: 40%;
+    margin-right: auto;
+    padding: 25px;
+    border-radius: 15px;
+    background: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.55)) padding-box, url("../../GENERALimages/cave.jpg") center / cover no-repeat padding-box, linear-gradient(135deg, #2b0000, #8b0000, #ff2400, #ff7b00) border-box;
+    box-shadow: 0 0 20px rgba(138, 63, 63, 0.45);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .RULES:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0 30px rgba(139, 0, 0, 0.7);
+    }
+
+
+.COMPTIA {
+    width: 40%;
+    margin-left: 30%;
+    padding: 25px;
+    border: 5px solid transparent;
+    border-radius: 15px;
+    background: linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0.80)) padding-box, url("../../GENERALimages/fields.jpg") center / cover no-repeat padding-box, linear-gradient(135deg, #8a3f3f, #ffcc70, #6a5acd, #00c2ff) border-box;
+    box-shadow: 0 0 20px rgba(138, 63, 63, 0.45);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .COMPTIA:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0 10px rgba(255, 0, 128, 0.5), 0 0 20px rgba(0, 200, 255, 0.5), 0 0 30px rgba(138, 43, 226, 0.5);
+    }
+
+.INTERNSHIP {
+    width: 40%;
+    margin-left: auto;
+    padding: 25px;
+    border-radius: 15px;
+    background: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.15)) padding-box, url("../../GENERALimages/snake.jpg") center / cover no-repeat padding-box, linear-gradient(135deg, #2b0000, #8b0000, #ff2400, #ff7b00) border-box;
+    box-shadow: 0 0 20px rgba(138, 63, 63, 0.45);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .INTERNSHIP:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0 20px rgba(0, 200, 120, 0.6);
+    }
+
+.STUDY-TOPICS {
+    width: 40%;
+    margin-right: auto;
+    padding: 25px;
+    border-radius: 15px;
+    background: linear-gradient(rgba(255,255,255,0.60), rgba(255,255,255,0.15)) padding-box, url("../../GENERALimages/FlyingCastle.png") center / cover no-repeat padding-box, linear-gradient(135deg, #2b0000, #8b0000, #ff2400, #ff7b00) border-box;
+    box-shadow: 0 0 20px rgba(138, 63, 63, 0.45);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+    .STUDY-TOPICS:hover {
+        transform: scale(1.03);
+        box-shadow: 0 0 30px rgba(139, 0, 0, 0.7);
+    }
+
+.LANDINGbutton-section {
+    display: left;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+.LANDING-BTN {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    font-weight: bold;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+    .LANDING-BTN:hover {
+        background-color: gray;
+    }
+
+.button-section {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+.AM-BTN {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    font-weight: bold;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+    .AM-BTN:hover {
+        background-color: gray;
+    }
+
+.neonText {
+    animation: flicker 5s infinite alternate;
+    color: #ffe6e6;
+}
+
+/* Flickering animation */
+@keyframes flicker {
+
+    0%, 18%, 22%, 25%, 53%, 57%, 100% {
+        text-shadow: 0 0 2px #fff, 0 0 4px #191970, 0 0 8px #B22222, 0 0 12px #000000, 0 0 12px #000000;
+    }
+
+    20%, 24%, 55% {
+        text-shadow: none;
+    }
+}

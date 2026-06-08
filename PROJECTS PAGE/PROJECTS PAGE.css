@@ -1,0 +1,22 @@
+﻿/*Code for button to return to LANDING page*/
+.button-section {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+/*Code for button to return to LANDING page*/
+.LANDING-BTN {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: lightgray;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    /*Code for button to return to LANDING page*/
+    .LANDING-BTN:hover {
+        background-color: gray;
+    }

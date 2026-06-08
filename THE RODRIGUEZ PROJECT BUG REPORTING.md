@@ -18,10 +18,11 @@
    **Cause:** Random position generated only once during page load.
    
    **Fix:** Moved random position generation into addBtn event.
- ### THE STORAGE
 
- ### THE NAVIGATION
+ ## THE STORAGE
 
- ### THE CONTENT
+ ## THE NAVIGATION
 
- ### THE PERFORMANCE
+ ## THE CONTENT
+
+ ## THE PERFORMANCE

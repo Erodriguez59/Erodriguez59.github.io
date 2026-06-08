@@ -70,7 +70,7 @@
 			[INVESTIGATING]: meaning bug has been noticed and are trying to find the cause.
 			[IN PROGRESS]: meaning bug cause has been identified and are actively coding a fix.
 			[TESTING]: meaning bug fix has been implemented but are making sure the fix doesn't break anything else.
-			[FIXED]: meaning bug has been fixed and confirmed to be owrking correctly.
+			[FIXED]: meaning bug has been fixed and confirmed to be working correctly.
 			[WON'T FIX]: meaning bug is known but intentionally left alone.
 
 ## THE PRIORITY LEVELS

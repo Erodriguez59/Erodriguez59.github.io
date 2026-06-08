@@ -3,7 +3,11 @@
 >
  ### THE UI
 
- ### THE CSS
+ ## THE CSS
+### [FIXED] [CSS] #001 Speech bubble tails did not match bubble colors.
+**Cause:** Tail background hardcoded to pink.
+
+**Fix:** Changed tail background to inherit parent color.
 
  ## THE JAVASCRIPT
  ### [FIXED] [JS] #001 Speech bubbles always appear on left side.

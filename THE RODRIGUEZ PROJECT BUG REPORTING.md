@@ -6,6 +6,10 @@
 **Cause:** Paint splashes are positioned using percentages of the page during page load.
 
 **Fix:** Swapped to a repeating pattern that continues as the page grows.
+
+### [WON'T FIX] [P1] [UI] #002 Journey Page Arrows are fucked.
+**Issue:** The SVG arrows break when on different sized page resolutions.
+**Reason:** This currently isn't that big of an issue as the page isn't online yet.
  
  ## THE CSS
 ### [FIXED] [P1] [CSS] #001 Speech bubble tails did not match bubble colors.

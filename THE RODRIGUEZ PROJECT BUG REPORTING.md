@@ -32,5 +32,9 @@
  **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
  
  ## THE CONTENT
+ ### [FIXED] [P2] [CON] #001 Images not found.
+ **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.
 
+ **Fix:** We managed to get relative pathing done for each pages images to a GENERALimage folder where I now store all the images used.
+ 
  ## THE PERFORMANCE

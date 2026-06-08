@@ -30,7 +30,11 @@
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC.
 
  **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
- 
+
+ ### [WON'T FIX] [P1] [NAV] #002 Transitions work one way.
+ **Issue:** Transitions work going through the (what I like to call the tree) directory to the branches, but do not work when going back to the root.
+
+ **Reason:** As long as they work going through the branches I am okay with that.
  ## THE CONTENT
  ### [FIXED] [P2] [CON] #001 Images not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.

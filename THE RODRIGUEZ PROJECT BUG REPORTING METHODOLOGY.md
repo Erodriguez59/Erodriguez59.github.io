@@ -2,6 +2,7 @@
 >BY ERIK RODRIGUEZ
 >
 ## THE CATEGORIES
+>And what they should cover.
 
  ### THE UI
 

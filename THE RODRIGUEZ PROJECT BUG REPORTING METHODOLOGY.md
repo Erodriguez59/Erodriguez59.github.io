@@ -72,3 +72,11 @@
 			[TESTING]: meaning bug fix has been implemented but are making sure the fix doesn't break anything else.
 			[FIXED]: meaning bug has been fixed and confirmed to be owrking correctly.
 			[WON'T FIX]: meaning bug is known but intentionally left alone.
+
+## THE PRIORITY LEVELS
+>aka the level in which I go in to "oh shit" mode.
+>
+			[P1] Critical
+			[P2] High
+			[P3] Medium
+			[P4] Low

@@ -66,9 +66,9 @@
 ## THE STATUSES
 >aka the state of the bug fixing process
 >
-			[OPEN]
-			[INVESTIGATING]
-			[IN PROGRESS]
-			[TESTING]
-			[FIXED]
-			[WON'T FIX]
+			[OPEN]: meaning bug just found and has not been worked on yet.
+			[INVESTIGATING]: meaning bug has been noticed and are trying to find the cause.
+			[IN PROGRESS]: meaning bug cause has been identified and are actively coding a fix.
+			[TESTING]: meaning bug fix has been implemented but are making sure the fix doesn't break anything else.
+			[FIXED]: meaning bug has been fixed and confirmed to be owrking correctly.
+			[WON'T FIX]: meaning bug is known but intentionally left alone.

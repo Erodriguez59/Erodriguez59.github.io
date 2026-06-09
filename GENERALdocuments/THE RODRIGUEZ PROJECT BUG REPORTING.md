@@ -27,6 +27,11 @@
 
 **Fix:** We neon-signed some of the less readable portions.
 
+### [FIXED] [P4] [CSS] #003 Crab animation feels off.
+**Cause:** The animation for the crab doesn't seem animated enough.
+
+**Fix:** We caused the crab to intermittently stop moving and wiggle around.
+
  ## THE JAVASCRIPT
  ### [FIXED] [P4] [JS] #001 Speech bubbles always appear on left side.
    **Cause:** Random position generated only once during page load.

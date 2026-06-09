@@ -71,7 +71,7 @@ body.fade-out {
 }
 ~~~
 **AND**
-getting the right amount of "../" + "transition.js"
+getting the right amount of ". . /" + "transition.js"
 
  **Reason:** Currently working through it in my free time
  ## THE CONTENT

@@ -60,9 +60,13 @@
  **Issue:** Transitions work going through the (what I like to call the tree) directory to the branches, but do not work when going back to the root.
 
 **Current Solution:** 
+
 body {
+    
     opacity: 1;
+    
     transition: opacity 0.5s ease;
+    
 }
 
 body.fade-out {

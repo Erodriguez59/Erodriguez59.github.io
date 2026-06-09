@@ -56,8 +56,20 @@
 
  **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
 
- ### [WON'T FIX] [P4] [NAV] #002 Transitions work one way.
+ ### [IN PROGRESS] [P4] [NAV] #002 Transitions work one way.
  **Issue:** Transitions work going through the (what I like to call the tree) directory to the branches, but do not work when going back to the root.
+
+**Current Solution:** 
+body {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+body.fade-out {
+    opacity: 0;
+}
+**AND**
+getting the right amount of "../" + "transition.js"
 
  **Reason:** As long as they work going through the branches I am okay with that.
  ## THE CONTENT

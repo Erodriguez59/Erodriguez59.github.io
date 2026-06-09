@@ -33,6 +33,11 @@
    
    **Fix:** Moved random position generation into addBtn event.
 
+### [FIXED] [P2] [JS] #002 Delete/Edit blog has no security?
+**Cause:** With no security, anyone can delete/edit blog posts. This was due to a lack of forethought since it wasn't online yet.
+
+**Fix:** I added a simple password authentication, nothing too fancy, nothing to secure. Just to show it could be done.
+
  ## THE STORAGE
  ### [FIXED] [P2] [STR] #001 Unorganized Github Repository
   **Cause:** Outdated version was messy since I was just throwing things in there as needed.

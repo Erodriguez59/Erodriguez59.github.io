@@ -73,7 +73,7 @@ body.fade-out {
 **AND**
 getting the right amount of "../" + "transition.js"
 
- **Reason:** As long as they work going through the branches I am okay with that.
+ **Reason:** Currently working through it in my free time
  ## THE CONTENT
  ### [FIXED] [P3] [CON] #001 Images not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.

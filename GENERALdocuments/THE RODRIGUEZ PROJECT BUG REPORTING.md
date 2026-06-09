@@ -62,11 +62,8 @@
 **Current Solution:** 
 
 body {
-    
-    opacity: 1;
-    
+    opacity: 1; 
     transition: opacity 0.5s ease;
-    
 }
 
 body.fade-out {

@@ -1,0 +1,110 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>MY CONTACTS</title>
+    <link href="contactpage.css" rel="stylesheet" />
+</head>
+
+<body>
+
+    <header>
+        <h1>WELCOME TO THE CONTACTS PAGE</h1>
+    </header>
+
+    <section class="EMAIL">
+        <h1>EMAIL ADDRESS: erikreecerodriguez@gmail.com</h1>
+        <h1>PHONE NUMBER: 574-340-8248</h1>
+        <h1>PHYSICAL ADDRESS: P.O Box 76</h1>
+    </section>
+
+    <section class="SOCIALS">
+        <style>
+            table, th, td {
+                border: 1px solid black;
+            }
+        </style>
+
+        <h2>SOCIALS</h2>
+
+        <table style="width:100%">
+            <tr>
+                <td> STEAM</td>
+                <td>INSTAGRAM</td>
+                <td>TWITCH</td>
+                <td>X</td>
+                <td>LINKEDIN</td>
+                <td>RIOT</td>
+                <td>GITHUB</td>
+            </tr>
+            <tr>
+                <td><a href="https://steamcommunity.com/profiles/76561198303893390/" class="SOCIAL-BTN"><img src="../GENERALimages/brand-steam.png" alt="STEAMPFP" width="25" height="50"></a></td>
+                <td><a href="https://www.instagram.com/erikreecerodriguez/?next=%252Faccounts%252Flogin%252F%253FconfirmReset%253D1" class="SOCIAL-BTN"><img src="../GENERALimages/brand-instagram.png" alt="INSTAGRAMPFP" width="25" height="50"></a></td>
+                <td><a href="https://www.twitch.tv/itztruewolf" class="SOCIAL-BTN"><img src="../GENERALimages/brand-twitch.png" alt="TWITCHPFP" width="25" height="50"></a></td>
+                <td><a href="https://x.com/Onyxiagaming" class="SOCIAL-BTN"><img src="../GENERALimages/brand-twitter.jpeg" alt="XPFP" width="25" height="50"></a></td>
+                <td><a href="../GENERALvideos/temp.mp4" class="SOCIAL-BTN"><img src="../GENERALimages/brand-linkedin.png" alt="LINKEDINPFP" width="25" height="50"></a></td>
+                <td><a href="https://u.gg/lol/profile/na1/itztruewolfvt-twtch/overview" class="SOCIAL-BTN"><img src="../GENERALimages/brand-riots.png" alt="TWITCHPFP" width="25" height="50"></a></td>
+                <td><a href="https://github.com/Erodriguez59" class="SOCIAL-BTN"><img src="../GENERALimages/brand-github.png" alt="GITHUBPFP" width="25" height="50"></a></td>
+            </tr>
+        </table>
+    </section>
+
+    <div>
+        <a href="../GENERALdocuments/Erik Resume.pdf" target="_blank">View My Resume</a>
+    </div>
+
+    <!--Code for returning to LANDING page-->
+    <footer>
+        <div class="crab" id="mainCrab">
+            <!-- your SVG crab goes here -->
+            <div class="crab">
+                <svg viewBox="0 0 120 70" class="crab-svg">
+                    <ellipse cx="60" cy="40" rx="28" ry="18" />
+
+                    <circle cx="50" cy="28" r="4" />
+                    <circle cx="70" cy="28" r="4" />
+
+                    <path d="M35 38 C20 30, 15 20, 8 15" />
+                    <path d="M85 38 C100 30, 105 20, 112 15" />
+
+                    <path d="M35 48 L15 58" />
+                    <path d="M45 52 L25 66" />
+                    <path d="M75 52 L95 66" />
+                    <path d="M85 48 L105 58" />
+
+                    <path d="M8 15 C2 10, 6 2, 14 5 C22 8, 18 18, 8 15" />
+                    <path d="M112 15 C118 10, 114 2, 106 5 C98 8, 102 18, 112 15" />
+                </svg>
+            </div>
+        </div>
+        <section class="LANDINGbutton-section">
+            <a href="../index.html" class="LANDING-BTN">Back to Landing</a>
+        </section>
+    </footer>
+    <script>
+        const mainCrab = document.getElementById("mainCrab");
+        const footer = document.querySelector("footer");
+
+        mainCrab.addEventListener("click", function () {
+            spawnCrab();
+        });
+
+        function spawnCrab() {
+            const newCrab = mainCrab.cloneNode(true);
+
+            newCrab.removeAttribute("id");
+            newCrab.classList.add("spawned-crab");
+
+            footer.appendChild(newCrab);
+
+            newCrab.addEventListener("animationend", function (event) {
+                if (event.animationName === "spawnedCrabWalk") {
+                    newCrab.remove();
+                }
+            });
+        }
+    </script>
+    <script src="../transition.js"></script>
+</body>
+</html>

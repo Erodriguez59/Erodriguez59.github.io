@@ -1,0 +1,165 @@
+﻿header {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #8a3f3f;
+    padding: 30px;
+    text-align: center;
+    color: white
+}
+/*Code for background design AND for making it continuous in regards to the amount of input messages*/
+body {
+    position: relative;
+    background-color: ghostwhite;
+    background-image: radial-gradient(circle, rgba(255,179,179,0.15) 0 60px, transparent 65px), radial-gradient(circle, rgba(224,195,252,0.15) 0 50px, transparent 55px), radial-gradient(circle, rgba(200,247,220,0.15) 0 70px, transparent 75px), radial-gradient(circle, rgba(207,232,255,0.15) 0 55px, transparent 60px);
+    background-size: 500px 500px, 600px 600px, 700px 700px, 550px 550px;
+    background-position: 0 0, 250px 150px, 100px 300px, 350px 400px;
+    background-repeat: repeat;
+}
+    /*This section adds the faint blotches you see*/
+    body::before {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: -1;
+        background: radial-gradient(ellipse 300px 180px at 20% 25%, rgba(255,179,179,0.20), transparent 70%), radial-gradient(ellipse 250px 140px at 80% 30%, rgba(224,195,252,0.20), transparent 70%), radial-gradient(ellipse 350px 200px at 30% 75%, rgba(200,247,220,0.18), transparent 70%), radial-gradient(ellipse 280px 160px at 75% 80%, rgba(207,232,255,0.18), transparent 70%);
+    }
+
+/*Code for button to return to LANDING page*/
+.button-section {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px;
+}
+
+/*Code for button to return to LANDING page*/
+.LANDING-BTN {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: lightgray;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+    /*Code for button to return to LANDING page*/
+    .LANDING-BTN:hover {
+        background-color: gray;
+    }
+
+.input-area {
+    margin: 40px auto 30px auto;
+    padding: 20px;
+    width: 350px;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+textarea {
+    width: 90%;
+    height: 120px;
+    padding: 10px;
+    resize: vertical;
+}
+
+#addBtn {
+    margin-top: 15px;
+    width: 100px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.post {
+    position: relative;
+    background: #ffb3b3;
+    color: #222;
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    border: 2px solid black;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    word-wrap: break-word;
+    width: 400px;
+}
+
+    .post::after {
+        content: "";
+        position: absolute;
+        left: 20px;
+        bottom: -10px;
+        width: 20px;
+        height: 20px;
+        background: inherit;
+        border-right: 2px solid black;
+        border-bottom: 2px solid black;
+        transform: rotate(45deg);
+    }
+
+    .post.left {
+        margin-right: auto;
+    }
+
+    .post.center {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .post.right {
+        margin-left: auto;
+    }
+
+.post-buttons {
+    margin-top: 15px;
+}
+
+    .post-buttons button {
+        margin-right: 10px;
+    }
+
+#postContainer {
+    width: 90%;
+    margin: 30px auto;
+}
+
+.post.pink {
+    background: #ffb3b3;
+}
+
+.post.peach {
+    background: #ffd6b3;
+}
+
+.post.lavender {
+    background: #e0c3fc;
+}
+
+.post.mint {
+    background: #c8f7dc;
+}
+
+.post.sky {
+    background: #cfe8ff;
+}
+
+.post.cream {
+    background: #fff4c2;
+}
+
+.post-timestamp {
+    font-size: 12px;
+    color: black;
+    margin-bottom: 10px;
+    font-style: italic;
+}

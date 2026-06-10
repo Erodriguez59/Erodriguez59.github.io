@@ -1,0 +1,75 @@
+In the Projects Page [Our Gallery]
+	(we treat this page as the Netflix homepage)
+
+    EXAMPLE CODE
+	<div class="project-card">
+        <h2>ULTIMA 2.0</h2>
+            <p>Secure IPC implementation in C++.</p>
+        <a href="ultima2.html">Learn More</a>
+    </div>
+
+Our Project Card [The preview]
+    Not the full project (Think Movie Poster)
+
+    EXAMPLE CODE
+    ULTIMA 2.0
+
+    Operating Systems Security Project
+
+    Technologies:
+    - C++
+    - Linux
+    - pthreads
+    - Semaphores
+
+    [Learn More]
+
+Project Detail Page
+    This section tells the story
+        What did you build?
+        Why did you build it?
+        What technologies did you use?
+        What problems did you solve?
+
+    EXAMPLE CODE
+        ULTIMA 2.0
+
+        Overview
+        ---------
+        Implemented secure IPC between tasks.
+
+        Objectives
+        -----------
+        - Authentication
+        - Permissions
+        - Message validation
+
+        Technologies
+        ------------
+        - C++
+        - Linux
+        - pthreads
+
+        Challenges
+        -----------
+        - Permission checks
+        - Message integrity
+        - Secure receiving
+
+        Screenshots
+        -----------
+        [images]
+
+        Lessons Learned
+        ---------------
+        What semaphores taught me...
+
+        Future Improvements
+        -------------------
+        Encryption
+        Role-based access
+
+        [GitHub Repository]
+
+Github Repository Button
+    This is a direct link to the repository.

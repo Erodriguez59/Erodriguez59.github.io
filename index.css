@@ -1,0 +1,52 @@
+header, .NAVIGATION {
+    background-color: #8a3f3f;
+    padding: 30px;
+    text-align: left;
+    color: white
+}
+
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+.PROFILE {
+    background-color: #d3d3d3;
+    padding: 30px;
+    text-align: center;
+    width: 80%;
+}
+
+.LANDING-BTN {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: lightgray;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+    .LANDING-BTN:hover {
+        background-color: gray;
+    }
+
+body {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+    body.fade-out {
+        opacity: 0;
+    }
+
+.SECRET-LINK {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+    .SECRET-LINK:hover {
+        color: #ffcc70;
+    }

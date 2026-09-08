@@ -9,7 +9,9 @@
 
 ### [FIXED] [P1] [UI] #002 Journey Page Arrows are fucked.
 **Issue:** The SVG arrows break when on different sized page resolutions.
+
 **Reason:** This currently isn't that big of an issue as the page isn't online yet.
+
 **Fix:** Changed from static page arrows to dynamic ones.
 
  ### [OPEN] [P4] [UI] #003 The Wonder Blog Return to Landing button is out of place.

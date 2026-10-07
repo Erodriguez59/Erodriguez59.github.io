@@ -59,7 +59,7 @@
 
  **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
 
- ### [FIXED] [P4] [NAV] #002 Transitions work one way.
+ ### [FIXED] [P4] [NAV] #002 Journey Transitions work one way.
  **Issue:** Transitions work going through the (what I like to call the tree) directory to the branches, but do not work when going back to the root.
 
 **Current Solution:** 
@@ -77,6 +77,11 @@ body.fade-out {
 getting the right amount of ". . /" + "transition.js"
 
  **Reason:** Currently working through it in my free time
+
+  ### [INVESTIGATING] [P4] [NAV] #002 About Me & Blog Transitions work one way.
+  **Issue:** [TBD]
+
+  **Fix:** [TBD]
  ## THE CONTENT
  ### [FIXED] [P3] [CON] #001 Images not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.

@@ -82,5 +82,9 @@ getting the right amount of ". . /" + "transition.js"
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.
 
  **Fix:** We managed to get relative pathing done for each pages images to a GENERALimage folder where I now store all the images used.
- 
+
+ ### [FIXED] [P4] [CON] #002 Resume Updated.
+ **Cause:** Out of date Resume.
+
+ **Fix:** Updated Resume to Semester of Fall 2026.
  ## THE PERFORMANCE

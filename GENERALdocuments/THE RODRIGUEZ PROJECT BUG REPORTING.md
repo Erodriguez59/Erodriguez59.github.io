@@ -59,7 +59,7 @@
 
  **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
 
- ### [IN PROGRESS] [P4] [NAV] #002 Transitions work one way.
+ ### [FIXED] [P4] [NAV] #002 Transitions work one way.
  **Issue:** Transitions work going through the (what I like to call the tree) directory to the branches, but do not work when going back to the root.
 
 **Current Solution:** 

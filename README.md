@@ -17,14 +17,17 @@
 
 ### THE LANDING PAGE:
 
-			This section should include the following:
-			
-														1. Name
-														2. Short title
-														3. Small intro paragraph
-														4. Working Navigation bar
-														5. Working Buttons
-														6. A profile picture
+<details>
+  <summary><b>This section includes the following</b></summary>
+
+  <ul>
+    <li>My Name</li>
+    <li>A Short Title</li>
+    <li>A small Intro Paragraph</li>
+    <li>Working Buttons</li>
+    <li>A profile picture</li>
+  </ul>
+</details>
 
 ### THE ABOUT ME PAGE:
 			This section should include the following: 

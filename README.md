@@ -13,7 +13,7 @@
 
 </details>
 
-## CORE SECTIONS
+## 	:book:CORE SECTIONS:book:
 
 ### THE LANDING PAGE:
 <details>

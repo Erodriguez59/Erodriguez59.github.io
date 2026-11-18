@@ -1,8 +1,8 @@
 # THE RODRIGUEZ PROJECT BUG REPORTING METHODOLOGY
->BY Erik Rodriguez
->
+>By Erik Rodriguez
+
 ## THE CATEGORIES
->And what they should cover.
+>And what each category should cover.
  ### :penguin:THE UI:penguin:
 <details>
   <summary><b>This section includes the following</b></summary>

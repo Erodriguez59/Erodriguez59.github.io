@@ -15,7 +15,7 @@
 
 ## 	:book:CORE SECTIONS:book:
 
-### THE LANDING PAGE:
+### :globe_with_meridians:THE LANDING PAGE::globe_with_meridians:
 > The front page of my website.
 
 <details>
@@ -30,7 +30,7 @@
   </ul>
 </details>
 
-### THE ABOUT ME PAGE:
+### :four_leaf_clover:THE ABOUT ME PAGE::four_leaf_clover:
 > This is the section to get to know about me.
 
 <details>
@@ -79,7 +79,7 @@
 	
 </details>
 
-### THE PROJECTS PAGE:
+### :open_file_folder:THE PROJECTS PAGE::open_file_folder:
 > In this section, each project should feel like a mini case study.
 <details>
   <summary><b>Each project should be labeled by the following</b></summary>
@@ -92,7 +92,7 @@
   	</ul>
 </details>
 													
-### THE JOURNEY PAGE:	DONE
+### :school:THE JOURNEY PAGE::school:	DONE
 > This section will be used to highlight important classes that I learned.
 <details>
   <summary><b>Each class should be labeled by the following</b></summary>
@@ -103,10 +103,10 @@
   	</ul>
 </details>
 			
-### THE BLOG PAGE:
+### :speech_balloon:THE BLOG PAGE::speech_balloon:
 > This section contains a series of short posts that go over random things that I find important.
 
-### CONTACT PAGE: 		DONE
+### :eyes:CONTACT PAGE::eyes: 		DONE
 > Obviously this should contain socials, email & my resume.
 <details>
   <summary><b>Each project should be labeled by the following</b></summary>

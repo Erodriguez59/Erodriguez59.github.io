@@ -1,7 +1,7 @@
 # THE RODRIGUEZ PROJECT EXTERNAL DOCUMENTATION
 >BY ERIK RODRIGUEZ
->
->SUMMER OF 2026
+>>SUMMER OF 2026
+
 ## THE GOAL:
 <details>
  <summary>Click to expand of the Summary Section</summary>

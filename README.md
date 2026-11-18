@@ -40,7 +40,9 @@
         <li>What got me interested</li>
       </ul>
     </li>
+</ol>
 
+<ol>
     <li>
       <b>What I Like Building</b>
       <ul>
@@ -48,7 +50,9 @@
         <li>Low-Level Programming</li>
       </ul>
     </li>
+</ol>
 
+<ol>
     <li>
       <b>Current Goals</b>
       <ul>
@@ -57,7 +61,9 @@
         <li>Reinforcement Learning</li>
       </ul>
     </li>
+</ol>
 
+<ol>
     <li>
       <b>My Personal Side</b>
       <ul>
@@ -65,7 +71,8 @@
         <li>Pastime Activities</li>
       </ul>
     </li>
-  </ol>
+</ol>
+	
 </details>
 
 			This section should include the following: 

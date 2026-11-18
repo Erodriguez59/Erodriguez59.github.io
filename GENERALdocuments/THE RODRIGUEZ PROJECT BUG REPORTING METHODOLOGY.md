@@ -3,7 +3,7 @@
 
 ## THE CATEGORIES
 >And what each category should cover.
- ### :penguin:THE UI:penguin:
+ ### 🐧THE UI🐧
 <details>
   <summary><b>This section includes the following</b></summary>
 
@@ -27,14 +27,6 @@
 	<li>5. Styling problems</li>
   </ul>
 </details>
-
-			This section should include the following:
-			
-													 	 1. Colors
-														 2. Borders
-														 3. Animations
-														 4. Hover effects
-														 5. Styling problems
 
 ### THE JAVASCRIPT
 

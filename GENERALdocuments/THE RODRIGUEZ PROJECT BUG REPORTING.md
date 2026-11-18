@@ -1,7 +1,7 @@
 # THE RODRIGUEZ PROJECT BUG REPORTING
 >BY ERIK RODRIGUEZ
 >
- ## THE UI
+ ## 🐧THE UI🐧
 ### [FIXED] [P3] [UI] #001 Blog Page Background not continuing after so many posts.
 **Cause:** Paint splashes are positioned using percentages of the page during page load.
 
@@ -19,7 +19,7 @@
 
  **Fix:** [TBD]
  
- ## THE CSS
+ ## 🌸THE CSS🌸
 ### [FIXED] [P4] [CSS] #001 Speech bubble tails did not match bubble colors.
 **Cause:** Tail background hardcoded to pink.
 
@@ -35,7 +35,7 @@
 
 **Fix:** We caused the crab to intermittently stop moving and wiggle around.
 
- ## THE JAVASCRIPT
+ ## 🐛THE JAVASCRIPT🐛
  ### [FIXED] [P4] [JS] #001 Speech bubbles always appear on left side.
    **Cause:** Random position generated only once during page load.
    
@@ -46,14 +46,14 @@
 
 **Fix:** I added a simple password authentication, nothing too fancy, nothing to secure. Just to show it could be done.
 
- ## THE STORAGE
+ ## 📫THE STORAGE📫
  ### [FIXED] [P3] [STR] #001 Unorganized Github Repository
   **Cause:** Outdated version was messy since I was just throwing things in there as needed.
 
   **Fix:** I deleted all the outdated files, keeping only the index.html **AND** the README.md; then added the files of the current project.
   >Files were added on June 6th, 2026 at 1:55 PM EST.
 
- ## THE NAVIGATION
+ ## ✈️THE NAVIGATION✈️
  ### [FIXED] [P1] [NAV] #001 Page not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC.
 
@@ -82,7 +82,7 @@ getting the right amount of ". . /" + "transition.js"
   **Issue:** [TBD]
 
   **Fix:** [TBD]
- ## THE CONTENT
+ ## ❤️THE CONTENT❤️
  ### [FIXED] [P3] [CON] #001 Images not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.
 

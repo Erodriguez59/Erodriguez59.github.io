@@ -2,8 +2,9 @@
 >By Erik Rodriguez
 
 ## THE CATEGORIES
->And what each category should cover.
+> And what each category should cover.
  ### 🐧THE UI🐧
+ > ORGANIZATION!!
 <details>
   <summary><b>This section includes the following</b></summary>
 
@@ -16,6 +17,7 @@
 </details>
 
  ### 🌸THE CSS🌸
+ > COLORS!!
 <details>
   <summary><b>This section includes the following</b></summary>
 

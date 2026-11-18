@@ -29,6 +29,45 @@
 </details>
 
 ### THE ABOUT ME PAGE:
+<details>
+  <summary><b>This section includes the following</b></summary>
+
+  <ol>
+    <li>
+      <b>A Short Story</b>
+      <ul>
+        <li>Where I started</li>
+        <li>What got me interested</li>
+      </ul>
+    </li>
+
+    <li>
+      <b>What I Like Building</b>
+      <ul>
+        <li>Operating Systems</li>
+        <li>Low-Level Programming</li>
+      </ul>
+    </li>
+
+    <li>
+      <b>Current Goals</b>
+      <ul>
+        <li>Internships</li>
+        <li>CompTIA Certifications</li>
+        <li>Reinforcement Learning</li>
+      </ul>
+    </li>
+
+    <li>
+      <b>My Personal Side</b>
+      <ul>
+        <li>Hobbies</li>
+        <li>Pastime Activities</li>
+      </ul>
+    </li>
+  </ol>
+</details>
+
 			This section should include the following: 
 			
 													1. A short story

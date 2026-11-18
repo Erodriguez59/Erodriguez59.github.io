@@ -3,13 +3,16 @@
 >
 >SUMMER OF 2026
 ## THE GOAL:
-
+<details>
+ <summary>Click to expand of the Summary Section</summary>
 		The goal of this project is to get a working website up and running
 		to act as my professional archive of projects that I've worked on 
 		in my college and professional career.
 		
 		This should include github repositories in which I shall store my
 		projects, an about me section with a mini resume and a neat layout.
+
+</details>
 
 ## CORE SECTIONS
 

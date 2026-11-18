@@ -119,7 +119,7 @@
 </details>										
 
 ## :construction:SUBJECTS TO WORK ON:construction:
-### SUBJECTS IN QUESTION:
+### :crab:SUBJECTS IN QUESTION::crab:
 > Here we are setting up a list of concepts/technical skills that I want to learn.
 <details>
   <summary><b>Each class should be labeled by the following</b></summary>

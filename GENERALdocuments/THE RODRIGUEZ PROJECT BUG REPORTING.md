@@ -51,13 +51,13 @@
   **Cause:** Outdated version was messy since I was just throwing things in there as needed.
 
   **Fix:** I deleted all the outdated files, keeping only the index.html **AND** the README.md; then added the files of the current project.
-  >Files were added on June 6th, 2026 at 1:55 PM EST. 
+  >Files were added on June 6th, 2026 at 1:55 PM EST. <br><br>
 
  ## ✈️THE NAVIGATION✈️
  ### [FIXED] [P1] [NAV] #001 Page not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC.
 
- **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found.
+ **Fix:** We swapped to using relative pathing and that fixed our issues with pages not being found. <br><br>
 
  ### [FIXED] [P4] [NAV] #002 Journey Transitions work one way.
  **Issue:** Transitions work going through the (what I like to call the tree) directory to the branches, but do not work when going back to the root.
@@ -76,20 +76,21 @@ body.fade-out {
 **AND**
 getting the right amount of ". . /" + "transition.js"
 
- **Reason:** Currently working through it in my free time
+ **Reason:** Currently working through it in my free time <br><br>
 
   ### [INVESTIGATING] [P4] [NAV] #002 About Me & Blog Transitions work one way.
   **Issue:** [TBD]
 
-  **Fix:** [TBD]
+  **Fix:** [TBD] <br><br>
+  
  ## ❤️THE CONTENT❤️
  ### [FIXED] [P3] [CON] #001 Images not found.
  **Cause:** We were using direct pathing, while the directory was that of my IU workstation rather than my home PC. **PLUS** we had a folder within each page that held the photos used by that page.
 
- **Fix:** We managed to get relative pathing done for each pages images to a GENERALimage folder where I now store all the images used.
+ **Fix:** We managed to get relative pathing done for each pages images to a GENERALimage folder where I now store all the images used. <br><br>
 
  ### [FIXED] [P4] [CON] #002 Resume Updated.
  **Cause:** Out of date Resume.
 
- **Fix:** Updated Resume to Semester of Fall 2026.
+ **Fix:** Updated Resume to Semester of Fall 2026. <br><br>
  ## THE PERFORMANCE

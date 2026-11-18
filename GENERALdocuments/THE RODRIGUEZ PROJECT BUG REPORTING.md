@@ -5,7 +5,7 @@
 ### [FIXED] [P3] [UI] #001 Blog Page Background not continuing after so many posts.
 **Cause:** Paint splashes are positioned using percentages of the page during page load.
 
-**Fix:** Swapped to a repeating pattern that continues as the page grows.<br>
+**Fix:** Swapped to a repeating pattern that continues as the page grows.<br><br>
 
 ### [FIXED] [P1] [UI] #002 Journey Page Arrows are fucked.
 **Issue:** The SVG arrows break when on different sized page resolutions.

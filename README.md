@@ -16,7 +16,6 @@
 ## CORE SECTIONS
 
 ### THE LANDING PAGE:
-
 <details>
   <summary><b>This section includes the following</b></summary>
 

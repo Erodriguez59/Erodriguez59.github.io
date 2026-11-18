@@ -16,7 +16,7 @@
   </ul>
 </details>
 
- ### 🌸THE CSS🌸
+ ## 🌸THE CSS🌸
  > COLORS!!
 <details>
   <summary><b>This section includes the following</b></summary>
@@ -30,7 +30,7 @@
   </ul>
 </details>
 
-### 🐛THE JAVASCRIPT🐛
+## 🐛THE JAVASCRIPT🐛
 > THE RULES!!
 <details>
   <summary><b>This section includes the following</b></summary>
@@ -43,7 +43,7 @@
   </ul>
 </details>
 
- ### 📫THE STORAGE📫
+ ## 📫THE STORAGE📫
  > BIGGER! BETTER! MORE!
  <details>
   <summary><b>This section includes the following</b></summary>
@@ -55,7 +55,7 @@
   </ul>
 </details>
 
- ### ✈️THE NAVIGATION✈️
+ ## ✈️THE NAVIGATION✈️
  > POINT A TO POINT B
  <details>
   <summary><b>This section includes the following</b></summary>
@@ -67,7 +67,7 @@
   </ul>
 </details>
 
-### ❤️THE CONTENT❤️
+## ❤️THE CONTENT❤️
 > THE INNARDS!!
 <details>
   <summary><b>This section includes the following</b></summary>
@@ -79,7 +79,7 @@
   </ul>
 </details>
 
- ### 🏎️THE PERFORMANCE🏎️
+ ## 🏎️THE PERFORMANCE🏎️
  > FASTER SPEEDS!!
  <details>
   <summary><b>This section includes the following</b></summary>

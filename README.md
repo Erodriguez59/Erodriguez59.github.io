@@ -2,7 +2,7 @@
 >BY Erik Rodriguez
 >>SUMMER OF 2026
 
-## THE GOAL:
+## :sparkles:THE GOAL::sparkles:
 <details>
  <summary>Click to expand of the Summary Section</summary>
 		The goal of this project is to get a working website up and running

@@ -76,6 +76,12 @@
 </details>
 
 ### THE PROJECTS PAGE:
+> In this section, each project should feel like a mini case study.
+<details>
+  <summary><b>This section includes the following</b></summary>
+	
+</details>
+
 				In this section, every project should feel like a mini case study
 						Each Project should be labeled by the following:
 						

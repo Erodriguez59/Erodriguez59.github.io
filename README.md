@@ -79,7 +79,13 @@
 > In this section, each project should feel like a mini case study.
 <details>
   <summary><b>This section includes the following</b></summary>
-	
+	<ul>
+    	<li>1. Project Name</li>
+   		<li>2. A Short Description</li>
+    	<li>3. The Tech Stack (Used language)</li>
+    	<li>4. Difficulty/Category Tags</li>
+    	<li>5. Links to each github project</li>
+  	</ul>
 </details>
 
 				In this section, every project should feel like a mini case study

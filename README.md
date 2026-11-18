@@ -116,6 +116,12 @@
 
 ## SUBJECTS TO WORK ON
 ### SUBJECTS IN QUESTION:
-	1. learning the basics of html coding.
-	2. working on creating the github pages.
-	3. figuring out how to set up my domain.
+> Here we are setting up a list of concepts/technical skills that I want to learn.
+<details>
+  <summary><b>Each class should be labeled by the following</b></summary>
+	<ul>
+    	<li>1. Learning the basics of html coding.</li>
+   		<li>2. Working on creating the github pages.</li>
+    	<li>3. Figuring out how to set up my domain.</li>
+  	</ul>
+</details>

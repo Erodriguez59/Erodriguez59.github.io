@@ -15,7 +15,18 @@
   </ul>
 </details>
 
- ### THE CSS
+ ### 🌸THE CSS🌸
+<details>
+  <summary><b>This section includes the following</b></summary>
+
+  <ul>
+    <li>1. Colors</li>
+    <li>2. Borders</li>
+    <li>3. Animations</li>
+    <li>4. Hover effects</li>
+	<li>5. Styling problems</li>
+  </ul>
+</details>
 
 			This section should include the following:
 			

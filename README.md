@@ -89,13 +89,16 @@
 </details>
 													
 ### THE JOURNEY PAGE:	DONE
-			This section will be used to highlight important classes you learned:
-						Each Class should be labeled by the following:
-						
-													1. Class Name
-													2. Short Description
-													3. Difficulty (personally)
-											
+> This section will be used to highlight important classes that I learned.
+<details>
+  <summary><b>Each class should be labeled by the following</b></summary>
+	<ul>
+    	<li>1. Class Name</li>
+   		<li>2. A Short Description</li>
+    	<li>3. The Difficulty (personally)</li>
+  	</ul>
+</details>
+			
 ### THE BLOG PAGE:
 			This section is a series of short posts:
 							- They go over random things that I found to be important.

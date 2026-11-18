@@ -114,7 +114,7 @@
   	</ul>
 </details>										
 
-## SUBJECTS TO WORK ON
+## :construction:SUBJECTS TO WORK ON:construction:
 ### SUBJECTS IN QUESTION:
 > Here we are setting up a list of concepts/technical skills that I want to learn.
 <details>

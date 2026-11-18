@@ -75,22 +75,6 @@
 	
 </details>
 
-			This section should include the following: 
-			
-													1. A short story
-														- where you started
-														- what got you interested
-													2. What you like building
-														- operating systems
-														- low-level programming
-													3. Current Goals
-														- internships
-														- CompTIA
-														- reinforcement learning
-													4. Personal Side
-														- hobbies
-														- past time activities
-
 ### THE PROJECTS PAGE:
 				In this section, every project should feel like a mini case study
 						Each Project should be labeled by the following:

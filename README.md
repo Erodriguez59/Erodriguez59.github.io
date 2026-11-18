@@ -78,7 +78,7 @@
 ### THE PROJECTS PAGE:
 > In this section, each project should feel like a mini case study.
 <details>
-  <summary><b>This section includes the following</b></summary>
+  <summary><b>Each project should be labeled by the following</b></summary>
 	<ul>
     	<li>1. Project Name</li>
    		<li>2. A Short Description</li>
@@ -87,15 +87,6 @@
     	<li>5. Links to each github project</li>
   	</ul>
 </details>
-
-				In this section, every project should feel like a mini case study
-						Each Project should be labeled by the following:
-						
-													1. Project Name
-													2. Short Description
-													3. Tech Stack (Used language)
-													4. Difficulty/Category Tags
-													5. Links to each github project.
 													
 ### THE JOURNEY PAGE:	DONE
 			This section will be used to highlight important classes you learned:

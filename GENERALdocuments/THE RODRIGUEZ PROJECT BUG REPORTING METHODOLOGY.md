@@ -1,16 +1,19 @@
 # THE RODRIGUEZ PROJECT BUG REPORTING METHODOLOGY
->BY ERIK RODRIGUEZ
+>BY Erik Rodriguez
 >
 ## THE CATEGORIES
 >And what they should cover.
- ### THE UI
+ ### :penguin:THE UI:penguin:
+<details>
+  <summary><b>This section includes the following</b></summary>
 
-			This section should include the following:
-			
-													 	 1. Visual/Layout issues
-														 2. Misaligned boxes
-														 3. Overflowing text
-														 4. Broken responsiveness
+  <ul>
+    <li>1. Visual/Layout issues</li>
+    <li>2. Misaligned boxes</li>
+    <li>3. Overflowing text</li>
+    <li>4. Broken responsiveness</li>
+  </ul>
+</details>
 
  ### THE CSS
 

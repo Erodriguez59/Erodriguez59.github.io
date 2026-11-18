@@ -16,6 +16,8 @@
 ## 	:book:CORE SECTIONS:book:
 
 ### THE LANDING PAGE:
+> The front page of my website.
+
 <details>
   <summary><b>This section includes the following</b></summary>
 
@@ -29,6 +31,8 @@
 </details>
 
 ### THE ABOUT ME PAGE:
+> This is the section to get to know about me.
+
 <details>
   <summary><b>This section includes the following</b></summary>
 

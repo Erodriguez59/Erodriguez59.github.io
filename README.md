@@ -100,17 +100,19 @@
 </details>
 			
 ### THE BLOG PAGE:
-			This section is a series of short posts:
-							- They go over random things that I found to be important.
+> This section contains a series of short posts that go over random things that I find important.
 
 ### CONTACT PAGE: 		DONE
-			This section should include the following:
-			
-													1. Email
-													2. Github
-													3. Linkedin
-													4. Resume
-													
+> Obviously this should contain socials, email & my resume.
+<details>
+  <summary><b>Each project should be labeled by the following</b></summary>
+	<ul>
+    	<li>1. Email</li>
+   		<li>2. Github</li>
+    	<li>3. My Linkedin</li>
+    	<li>4. My Resume</li>
+  	</ul>
+</details>										
 
 ## SUBJECTS TO WORK ON
 ### SUBJECTS IN QUESTION:

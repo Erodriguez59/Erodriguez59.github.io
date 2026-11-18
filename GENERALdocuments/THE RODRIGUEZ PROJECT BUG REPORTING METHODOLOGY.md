@@ -31,7 +31,7 @@
 </details>
 
 ### 🐛THE JAVASCRIPT🐛
-> THE INNARDS!!
+> THE RULES!!
 <details>
   <summary><b>This section includes the following</b></summary>
 
@@ -43,52 +43,79 @@
   </ul>
 </details>
 
- ### THE STORAGE
+ ### 📫THE STORAGE📫
+ > BIGGER! BETTER! MORE!
+ <details>
+  <summary><b>This section includes the following</b></summary>
 
-			This section should include the following:
-			
-													 	 1. localStorage
-														 2. Save/load issues
-														 3. Persistence bugs
+  <ul>
+    <li>1. localStorage</li>
+    <li>2. Save/load issues</li>
+    <li>3. Persistence bugs</li>
+  </ul>
+</details>
 
- ### THE NAVIGATION
+ ### ✈️THE NAVIGATION✈️
+ > POINT A TO POINT B
+ <details>
+  <summary><b>This section includes the following</b></summary>
 
-			This section should include the following:
-			
-													 	 1. Broken links
-														 2. Missing pages
-														 3. Transition issues
+  <ul>
+    <li>1. Broken links</li>
+    <li>2. Missing pages</li>
+    <li>3. Transition issues</li>
+  </ul>
+</details>
 
-### THE CONTENT
+### ❤️THE CONTENT❤️
+> THE INNARDS!!
+<details>
+  <summary><b>This section includes the following</b></summary>
 
-			This section should include the following:
-			
-													 	 1. Typos
-														 2. Incorrect information
-														 3. Missing images
+  <ul>
+    <li>1. Typos</li>
+    <li>2. Incorrect information</li>
+    <li>3. Missing images</li>
+  </ul>
+</details>
 
- ### THE PERFORMANCE
+ ### 🏎️THE PERFORMANCE🏎️
+ > FASTER SPEEDS!!
+ <details>
+  <summary><b>This section includes the following</b></summary>
 
-			This section should include the following:
-			
-													 	 1. Slow page loads
-														 2. Excessive DOM elements
-														 3. Laggy animations
+  <ul>
+    <li>1. Slow page loads</li>
+    <li>2. Excessive DOM elements</li>
+    <li>3. Laggy animations</li>
+  </ul>
+</details>
 
-## THE STATUSES
+## 🔥THE STATUSES🔥
 >aka the state of the bug fixing process
->
-			[OPEN]: meaning bug just found and has not been worked on yet.
-			[INVESTIGATING]: meaning bug has been noticed and are trying to find the cause.
-			[IN PROGRESS]: meaning bug cause has been identified and are actively coding a fix.
-			[TESTING]: meaning bug fix has been implemented but are making sure the fix doesn't break anything else.
-			[FIXED]: meaning bug has been fixed and confirmed to be working correctly.
-			[WON'T FIX]: meaning bug is known but intentionally left alone.
 
-## THE PRIORITY LEVELS
+<details>
+  <summary><b>This section includes the following</b></summary>
+
+  <ul>
+    <li>1. [OPEN]: meaning bug just found and has not been worked on yet.</li>
+    <li>2. [INVESTIGATING]: meaning bug has been noticed and are trying to find the cause.</li>
+    <li>3. [IN PROGRESS]: meaning bug cause has been identified and are actively coding a fix.</li>
+    <li>4. [TESTING]: meaning bug fix has been implemented but are making sure the fix doesn't break anything else.</li>
+	<li>5. [FIXED]: meaning bug has been fixed and confirmed to be working correctly.</li>
+	<li>6. [WON'T FIX]: meaning bug is known but intentionally left alone.</li>
+  </ul>
+</details>
+
+## 📊THE PRIORITY LEVELS📊
 >aka the level in which I go in to "oh shit" mode.
->
-			[P1] Critical
-			[P2] High
-			[P3] Medium
-			[P4] Low
+<details>
+  <summary><b>This section includes the following</b></summary>
+
+  <ul>
+    <li>1. [P1] Critical</li>
+    <li>2. [P2] High</li>
+    <li>3. [P3] Medium</li>
+    <li>4. [P4] Low</li>
+  </ul>
+</details>

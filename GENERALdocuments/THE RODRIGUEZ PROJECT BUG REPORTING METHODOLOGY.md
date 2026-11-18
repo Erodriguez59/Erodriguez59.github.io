@@ -30,14 +30,18 @@
   </ul>
 </details>
 
-### THE JAVASCRIPT
+### 🐛THE JAVASCRIPT🐛
+> THE INNARDS!!
+<details>
+  <summary><b>This section includes the following</b></summary>
 
-			This section should include the following:
-			
-													 	 1. Buttons not working
-														 2. Event listeners
-														 3. Infinite scroll
-														 4. Randomization bugs
+  <ul>
+    <li>1. Buttons not working</li>
+    <li>2. Event listeners</li>
+    <li>3. Infinite scroll</li>
+    <li>4. Randomization bugs</li>
+  </ul>
+</details>
 
  ### THE STORAGE
 

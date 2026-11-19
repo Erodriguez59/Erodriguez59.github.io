@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -11,7 +11,7 @@
         <h1>WELCOME TO MY JOURNEY</h1>
     </header>
 
-    <svg class="journey-lines" viewBox="0 0 1200 3000" preserveAspectRatio="none">
+    <svg class="journey-lines">
         <defs>
             <marker id="arrowhead"
                     markerWidth="10"
@@ -22,22 +22,6 @@
                 <polygon points="0 0, 10 5, 0 10" fill="black" />
             </marker>
         </defs>
-
-        <!-- LOGIC -> LBS -->
-        <path d="M 520 320 C 850 380, 900 500, 850 650"
-              marker-end="url(#arrowhead)" />
-
-        <!-- LBS -> FDSA -->
-        <path d="M 680 850 C 150 650, 300 950, 300 1100"
-              marker-end="url(#arrowhead)" />
-
-        <!-- FDSA -> BOT -->
-        <path d="M 520 1200 C 750 1200, 900 1200, 750 1475"
-              marker-end="url(#arrowhead)" />
-
-        <!-- BOT -> DCTI -->
-        <path d="M 680 1750 C 150 1900, 300 1950, 400 2000"
-              marker-end="url(#arrowhead)" />
     </svg>
 
     <!--Logic-->
@@ -161,6 +145,8 @@
         </section>
     </footer>
 
+    <!--this transition is working both ways now.-->
+    <script src="journey.js"></script>
     <script src="../transition.js"></script>
 </body>
 </html>

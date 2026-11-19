@@ -1,16 +1,121 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
     <title>THE PROJECTS</title>
     <link href="projectspage.css" rel="stylesheet" />
+    <script src="projects.js" defer></script>
 </head>
 <body>
     <header>
         <h1>We stand before, The Projects of my Life!!</h1>
     </header>
 
+    <main class="projects-container">
+
+        <aside class="project-nav">
+
+            <h2 style="color: white; text-align: center; "> Search By</h2>
+
+            <button id="allBtn">All</button>
+
+            <button id="topBtn">Top 5</button>
+
+            <button id="recentBtn">Recent</button>
+
+            <div class="project-create-box">
+                <button id="createProjectBtn">Create Project</button>
+            </div>
+
+        </aside>
+
+        <section class="projects-display">
+
+            <div class="project-card recent">
+                <h2>ULTIMA2.0</h2>
+                <p>Operating Systems Security Project</p>
+                
+                <img src="../GENERALimages/ULTIMA2.0.png" class="project-thumbnail" alt="ULTIMA2.0">
+
+                <video class="project-thumbnail-video" autoplay muted loop playsinline>
+                    <source src="../GENERALvideos/ULTIMA2.0.mp4" type="video/mp4">
+                </video>
+
+                <div class="project-preview">
+                    <p><strong>Technologies:</strong></p>
+                    <ul>
+                        <li>C++</li>
+                        <li>Linux</li>
+                        <li>pthreads</li>
+                        <li>Semaphores</li>
+                    </ul>
+
+                    <button class="learn-more-btn" data-project="ultima">Learn More</button>
+                </div>
+            </div>
+
+            <div class="project-card top5">
+                <h2>Portfolio Website</h2>
+                <p>Personal website and project archive.</p>
+
+                <div class="project-preview">
+                    <p><strong>Technologies:</strong></p>
+                    <ul>
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>GitHub Pages</li>
+                    </ul>
+
+                    <button class="learn-more-btn" data-project="portfolio">Learn More</button>
+                </div>
+            </div>
+
+        </section>
+
+        <div id="creationModal" class="creation-modal">
+
+            <div class="creation-form-box">
+
+                <button id="closeCreationBtn" class="close-btn">X</button>
+
+                <h2>Creation Form</h2>
+
+                <label>Creation Date</label>
+                <input type="date">
+
+                <label>Project Title</label>
+                <input type="text" placeholder="Enter project title">
+
+                <label>Project Name</label>
+                <input type="text" placeholder="Enter project name">
+
+                <label>Thumbnail</label>
+                <input type="file" accept="image/*">
+
+                <label>Project Date</label>
+                <input type="date">
+
+                <label>Preview Video</label>
+                <input type="url" placeholder="Paste video URL">
+
+            </div>
+
+        </div>
+
+        <div id="projectDetailModal" class="project-detail-modal">
+
+            <div class="project-detail-box">
+
+                <button id="closeDetailBtn" class="close-btn">X</button>
+
+                <div id="projectDetailContent"></div>
+
+            </div>
+
+        </div>
+    </main>
     <footer>
         <section class="button-section">
             <a href="../index.html" class="LANDING-BTN">Back to Landing</a>

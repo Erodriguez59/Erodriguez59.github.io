@@ -94,7 +94,7 @@ getting the right amount of ". . /" + "transition.js"
 
  **Fix:** Updated Resume to Semester of Fall 2026. <br><br>
 
-  ### [OPEN] [P4] [CON] #003 Project thumbnails not loading via GitPages.
+  ### [IN PROGRESS] [P4] [CON] #003 Project thumbnails not loading via GitPages.
  **Cause:** The video files are too big, which doesn't make sense since they're only 25MB but I digress.
 
  **Fix:** [TBD] <br><br>
